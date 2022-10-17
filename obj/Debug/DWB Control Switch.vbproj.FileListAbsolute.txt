@@ -1,0 +1,60 @@
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\bin\Debug\DWB Control Switch.exe.config
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\bin\Debug\DWB Control Switch.exe
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\bin\Debug\DWB Control Switch.pdb
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\bin\Debug\DWB Control Switch.xml
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB_Control_Switch.Form1.resources
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB_Control_Switch.Resources.resources
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB Control Switch.vbproj.GenerateResource.Cache
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB Control Switch.exe
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB Control Switch.xml
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB Control Switch.pdb
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB_Control_Switch.DOOR_INPUTS_AND_ALIGNMENT_MODES.resources
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB_Control_Switch.Search_ECS_and_Beam_Dumps_Input.resources
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB_Control_Switch.TimeVariables.resources
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\bin\Debug\DWB Control Switch.exe.manifest
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\bin\Debug\DWB Control Switch.application
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB Control Switch.exe.manifest
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB Control Switch.application
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB_Control_Switch.SLP_Assignments.resources
+C:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\DWB Control Switch\obj\Debug\DWB Control Switch.vbprojResolveAssemblyReference.cache
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.vbproj.AssemblyReference.cache
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.DOOR_INPUTS_AND_ALIGNMENT_MODES.resources
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.Form1.resources
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.Search_ECS_and_Beam_Dumps_Input.resources
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.SLP_Assignments.resources
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.TimeVariables.resources
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.vbproj.GenerateResource.cache
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.exe
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.xml
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.pdb
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.Resources.resources
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.vbproj.CoreCompileInputs.cache
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.exe.config
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.exe.manifest
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.application
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.exe
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.pdb
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.xml
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.exe.manifest
+D:\Users\Jayson Amodia\Desktop\Tasks\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.application
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.exe.config
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.exe.manifest
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.application
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.exe
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.pdb
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\bin\Debug\DWB Control Switch.xml
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.vbproj.AssemblyReference.cache
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.vbproj.SuggestedBindingRedirects.cache
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.DOOR_INPUTS_AND_ALIGNMENT_MODES.resources
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.Form1.resources
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.Resources.resources
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.Search_ECS_and_Beam_Dumps_Input.resources
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.SLP_Assignments.resources
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB_Control_Switch.TimeVariables.resources
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.vbproj.GenerateResource.cache
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.vbproj.CoreCompileInputs.cache
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.exe.manifest
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.application
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.exe
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.xml
+D:\Task\20210223 - Control Switch DWB\Rev 4.0\4.1\6. Software\DWB Control Switch\obj\Debug\DWB Control Switch.pdb
